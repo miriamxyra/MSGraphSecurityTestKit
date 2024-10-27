@@ -29,4 +29,4 @@
 - SecurityReader: "5d6b6bb7-de71-4623-b4af-96380a352509"
 - UserAdministrator: "fe930be7-5e62-47db-91af-98c3a49a38b1"
 
-* ... of course there might be more ;-)
+... of course there might be more ;-)
